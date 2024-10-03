@@ -17,19 +17,19 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/pramod-kumar-997a3b280">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <p> <img src="https://komarev.com/ghpvc/?username=bhaskarpf&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarpf" /> </p>
+    <p> <img src="https://komarev.com/ghpvc/?username=bhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar" /> </p>
     <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+pramod+kumar..;professional+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Bhaskar+p..;professional+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 I'm a self-taught passionate Python developer from India 🇮🇳
 
 **About me**
 
-- 💼 Software Engineer at [JSW Steel](http://jsw.in/)
+- 💼 Software Engineer 
 
 - 📈 I take row data, Develop web applications , show this data in attractive Dashboards
 
